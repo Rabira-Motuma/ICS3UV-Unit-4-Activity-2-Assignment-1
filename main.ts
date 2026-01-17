@@ -2,7 +2,8 @@
 * @author Rabira Motuma
 * @version 1.0.0
 * @date 2026-01-12
-* @fileoverview This program prints a pattern of numbers in a right-angled triangle.
+* @fileoverview This program prompts the user for a range, and then adds all numbers within the range and adds
+*               all numbers out of the range.
 */
 
 // variables
